@@ -16,7 +16,6 @@
 - ☕ [Java](https://www.java.com/es/): Lenguaje de programación utilizado para desarrollar la aplicación.
 - 🍃 [Spring Framework](https://spring.io/): Framework utilizado para la gestión de dependencias, creación de APIs REST y manejo de la lógica de negocio.
 - 🐘 [PostgreSQL](https://www.postgresql.org/): Sistema de gestión de bases de datos relacional utilizado para almacenar la información.
-- 💙 [Visual Studio Code](https://code.visualstudio.com/): Editor de código utilizado para el desarrollo del proyecto.
 
 ## Requisitos Previos
 
